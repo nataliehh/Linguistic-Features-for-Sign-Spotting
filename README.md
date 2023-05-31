@@ -1,5 +1,4 @@
-# Analyzing the Potential of Linguistic Features for Sign Spotting:
-# A Look at Approximative Features
+# Analyzing the Potential of Linguistic Features for Sign Spotting: A Look at Approximative Features
 ## By Natalie Hollain, Martha Larson and Floris Roelofsen
 ### 2022-2023
 
